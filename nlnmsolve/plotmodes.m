@@ -1,0 +1,1 @@
+subplot(2,2,1)surf(u,v,dis2)view([2,-10,4])colormap(gray)shading interpsubplot(2,2,2)surf(u,v,dis2+u)view([2,-10,4])colormap(gray)shading interp

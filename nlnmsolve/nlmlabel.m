@@ -1,0 +1,1 @@
+	xlabel('Modal Displacement')	ylabel('Modal Velocity')	zlabel('Error, Shaw and Pierre Polynomial Representation')

@@ -1,0 +1,1 @@
+function [zd]=nonlineq(t,z)%z;zd1=[z(2);   -2*z(1)+z(3)-.5*z(1)^2;    z(4);    z(1)-2*z(3)];zd=[zd1;-zd1];		end;
